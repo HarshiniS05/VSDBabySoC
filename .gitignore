@@ -1,0 +1,12 @@
+# Simulation outputs
+output/
+*.vcd
+*.out
+*.vvp
+
+# Backup files
+*.backup
+*.bak
+
+# Large generated files
+src/gls_model/sky130_fd_sc_hd.v

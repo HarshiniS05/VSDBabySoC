@@ -24,7 +24,7 @@ The original testbench had a timing bug:
 
 ## Simulation result
 
-![Pre-synthesis simulation waveform](docs/screenshots/pre_synth_sim_waveform.png)
+![Pre-synthesis simulation waveform](docs/screenshots/pre_synth_sim_waveform.png.png)
 
 - `RV_TO_DAC[9:0]` — CPU produces triangular digital pattern (0→43→0)
 - `OUT` — DAC converts to analog voltage triangular wave
